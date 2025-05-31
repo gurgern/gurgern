@@ -1,16 +1,17 @@
-## Hi there 👋
+`*# Hello! 👋 My name is Khalatyan Gurgen*`
 
-<!--
-**gurgern/gurgern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`*💡 Python-programer,  interested in Backend.*`
 
-Here are some ideas to get you started:
+`*## 🔧 My Hard Skills:*`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `*Python, algorithms*`
+- `*Telegram, pyrogram*`
+- `*PyGame*`
+- `*Flask*`
+- `*SQLite*`
+
+`*## 📌 My Projects:*`
+
+- `*[AI Image identifier](https://github.com/gurgern/ImageGGT)*`
+- `*[Telegram Bot with Minigames](https://github.com/user/Telebot)*`
+- `*[Flask API for Blogs] (https://github.com/gurgern/Make-Your-Blog))*`
